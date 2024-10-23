@@ -1,8 +1,8 @@
 # Hotel Booking Data Analysis and Forecasting
 
 <p align="center">
-  <img src="https://github.com/shaikhrnafees/Tableau-Dash-On-Hotel-Booking/blob/main/new.gif" alt="Project GIF" width="400"/> <!-- Updated Project GIF -->
-  <img src="https://github.com/shaikhrnafees/Tableau-Dash-On-Hotel-Booking/blob/main/TB.png" alt="Project Logo" width="250"/> <!-- Updated Project Logo Size -->
+  <img src="https://prodimages.everythingneon.com/1000/l102-0709-hotel-animated-led-sign.gif" alt="Project GIF" width="480"/> <!-- Updated Project GIF -->
+  <!-- Updated Project Logo Size -->
 </p>
 
 ## Table of Contents
@@ -32,7 +32,7 @@ This project leverages data analytics to enhance decision-making in the hospital
 Data cleaning involved handling missing values and correcting inconsistencies in fields such as booking dates, room types, cancellation status, and customer demographics. Feature engineering was conducted to create new variables that provide a deeper understanding of booking behaviors, such as calculating booking lead times and categorizing customers based on booking channels.
 
 <p align="center">
-  <img src="https://github.com/shaikhrnafees/Tableau-Dash-On-Hotel-Booking/blob/main/hotel.gif" alt="Additional Project GIF" width="300"/> <!-- Additional GIF -->
+  <img src="https://smarthotelsoftware.com/wp-content/uploads/2018/02/Smart-Hotel-Animation.gif" alt="Additional Project GIF" width="300"/> <!-- Updated Additional GIF -->
 </p>
 
 ## Focus Areas in the Dashboard
@@ -67,7 +67,7 @@ Check out the interactive Tableau dashboard [here](https://public.tableau.com/ap
 - **Python/Pandas:** Data preprocessing was performed before importing the dataset into Tableau for visualization.
 
 <p align="center">
-  <img src="https://github.com/shaikhrnafees/Tableau-Dash-On-Hotel-Booking/blob/main/Compare.webp" alt="Comparison Image" width="600"/> <!-- Comparison Image -->
+  <img src="https://yourstore.io/api/uploads/63f86732cc2aaa615e4b45c8/blogs/1724906569900-415874.webp" alt="Comparison Image" width="600"/> <!-- Updated Comparison Image -->
 </p>
 
 ## Conclusion
